@@ -1,3 +1,7 @@
+/*
+author: lantsh
+date: 2019/09/12
+*/
 #include<iostream>
 using namespace std;
 
